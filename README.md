@@ -1,21 +1,22 @@
 Solo copia el contenido del otro código en un archivo de texto, al guardarlo reemplaza el .txt del final por .html para que funcione.
 Si deseas puedes convertirlo a .PDF en windows pulsando CTRL + P
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
+
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guía de Debloat mediante ADB para MIUI/HyperOS</title>
     <style>
-        /* ===== RESET Y CONFIGURACIÓN GLOBAL ===== */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        body {
+      body {
             background: #0a0e14;
             font-family: 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New', monospace;
             padding: 30px 20px;
